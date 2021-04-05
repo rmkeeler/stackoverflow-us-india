@@ -47,5 +47,5 @@ The main findings of the code can be found at the post available [here]().
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Data collected and made available by [StackOverflow](https://www.stackoverflow.com).  Info regarding the datasets and their licensing can be found at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Feel free to use the code provided in this repository at your own discretion.
+Data collected and made available by [StackOverflow](https://www.stackoverflow.com).  Info regarding the datasets and their licensing can be found on [Kaggle](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Feel free to use the code provided in this repository at your own discretion.
 
