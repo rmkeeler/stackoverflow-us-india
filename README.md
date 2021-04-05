@@ -21,7 +21,7 @@ Packages used:
 
 ## File Descriptions <a name="files"></a>
 
-stackoverflowsurvey_2018_2020.ipynb is the only file included. All analyses take place there. Links to Stackoverflow Survey source datasets appear above the import statements in that notebook.
+stackoverflowsurvey_2018_2020.ipynb is the only file included. All analyses take place in that notebook. All necessary custom functions are defined in that notebook, as well. Links to Stackoverflow Survey source datasets appear above the import statements in that notebook.
 
 ## Results<a name="results"></a>
 
