@@ -16,6 +16,10 @@ Packages used:
 1. Pandas 1.2.3
 2. Matplotlib 3.4.1
 
+It's important to ensure two folders exist in this repo's folder on your machine when you run the analysis.
+1. output: plots will be saved by the notebook to this folder
+2. datasets: notebook will search for the survey datasets in this folder during import at the beginning of the notebook.
+
 ## Project Motivation<a name="motivation"></a>
 After examining Stackoverflow's annual survey data, I found that 2018, 2019 and 2020 were years during which they asked developers about languages they knew and planned to learn. These responses can be made into useful indicators of language repertoires which developers feel they need to succeed in their fields.
 
