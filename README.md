@@ -34,9 +34,9 @@ stackoverflowsurvey_2018_2020.ipynb is the only file included. All analyses take
 The analyses use two datasets created by Stackoverflow via surveys they conducted in 2018 and 2020. 
 
 
-1. [Master list of survey datasets at Stackoverflow:](https://insights.stackoverflow.com/survey)
-2. [Direct link to 2018 dataset:](https://drive.google.com/uc?export=download&id=1_9On2-nsBQIw3JiY43sWbrF8EjrqrR4U)
-3. [Direct link to 2020 dataset:](https://drive.google.com/file/d/1dfGerWeWkcyQ9GX9x20rdSGj7WtEpzBB/view?usp=sharing)
+1. [Master list of survey datasets at Stackoverflow](https://insights.stackoverflow.com/survey)
+2. [Direct link to 2018 dataset](https://drive.google.com/uc?export=download&id=1_9On2-nsBQIw3JiY43sWbrF8EjrqrR4U)
+3. [Direct link to 2020 dataset](https://drive.google.com/file/d/1dfGerWeWkcyQ9GX9x20rdSGj7WtEpzBB/view?usp=sharing)
 
 
 Links to Stackoverflow Survey source datasets also appear above the import statements in that notebook.
