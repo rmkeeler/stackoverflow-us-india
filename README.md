@@ -17,11 +17,15 @@ Packages used:
 2. Matplotlib 3.4.1
 
 ## Project Motivation<a name="motivation"></a>
-
+After examining 
 
 ## File Descriptions <a name="files"></a>
 
-stackoverflowsurvey_2018_2020.ipynb is the only file included. All analyses take place in that notebook. All necessary custom functions are defined in that notebook, as well. Links to Stackoverflow Survey source datasets appear above the import statements in that notebook.
+stackoverflowsurvey_2018_2020.ipynb is the only file included. All analyses take place in that notebook. All necessary custom functions are defined in that notebook, as well.
+
+The analyses use two datasets created by Stackoverflow via surveys they conducted in 2018 and 2020. 
+
+Links to Stackoverflow Survey source datasets also appear above the import statements in that notebook.
 
 ## Results<a name="results"></a>
 
