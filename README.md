@@ -1,6 +1,3 @@
-
-# This readme is a work in progress.
-
 ### Table of Contents
 
 1. [Installation](#installation)
@@ -47,7 +44,7 @@ Links to Stackoverflow Survey source datasets also appear above the import state
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at this [Medium post](https://ryan-keeler.medium.com/candidates-and-companies-alike-want-to-know-which-programming-languages-devs-should-devs-have-in-d31abf6fc6e4) I wrote in April, 2021.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
